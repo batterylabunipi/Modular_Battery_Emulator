@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name New_Library)(type Legacy)(uri ${KIPRJMOD}/New_Library.lib)(options "")(descr ""))
+  (lib (name board_lib)(type Legacy)(uri ${KIPRJMOD}/board_lib.lib)(options "")(descr ""))
+)
